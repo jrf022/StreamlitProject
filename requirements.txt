@@ -1,0 +1,5 @@
+numpy==1.26.2
+pillow==10.2.0
+streamlit==1.29.0
+-e git+https://github.com/jrf022/StreamlitProject.git@2dd445489dbce5411878448abb4b7b7f3c239cb9#egg=streamlit_drawable_canvas
+
